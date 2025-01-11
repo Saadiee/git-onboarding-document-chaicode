@@ -1,7 +1,3 @@
-Here’s a detailed draft of the onboarding documentation for new developers at ChaiCode Cohort:
-
----
-
 # Welcome to Git and GitHub at ChaiCode Cohort!  
 
 Congratulations on joining the ChaiCode Cohort team! This guide is designed to help you get started with Git and GitHub, two essential tools for efficient and collaborative software development. Whether you're new to these tools or need a refresher, this guide will walk you through installation, setup, and best practices to ensure you're ready to contribute to our projects.
